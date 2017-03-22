@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HamCardManageSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="titles_user_ids">
+
+
+
+        <item>User1</item>
+        <item>User2</item>
+        <item>User3</item>
+        <item>User4</item>
+        <item>User5</item>
+
+
+    </string-array>
+</resources>
